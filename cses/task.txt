@@ -1,0 +1,45 @@
+JOB Role: Designation: Intern - Software Engineer 
+
+Responsibility includes but not limited to: 
+** Operate within a dynamic work environment to generate software of exceptional quality
+** Collaborate with the development team to design, develop, test and deploy software products
+** Engage in developing solutions that seamlessly integrate into distributed systems, using innovative technology at an unprecedented scale and speed.
+** Develop optimized code that may be included as part of our next software release 
+** Contribute to our suite of automated tests and testing infrastructure 
+** Contribute to tools and solutions to support and monitor our various cloud services 
+
+Eligibility Criteria: 
+** Enrolled in sophomore year or higher at a college/university or any year at a graduate school
+** Working towards a B.E/ B.Tech in Computer Science, Information Technology and Circuit Branch graduating in 2027
+
+Required Skills: 
+** Academic or professional/internship 
+** Ability to quickly learn new technologies 
+** Strong analytical and problem-solving skills 
+** Ability to thrive in a fast-paced environment
+** Be a self-starter and possess strong sense of self-motivation 
+** Excellent in effectively communicating technical challenges and proposing solutions.
+** Skilled in navigating through ambiguous or undefined problems, coupled with the ability to think abstractly.
+
+Desired Skills: 
+** Experience with programming languages such as Java, C++ or Python 
+** Knowledge of web development technologies (HTML, CSS, JavaScript) and frameworks (React, Angular, or Vue.js) is a plus.
+** Coursework in SQL and relational database concepts 
+** Strong in Computer Science fundamentals, including object-oriented design, data structures, algorithm development, problem-solving, and complexity analysis
+
+#####What attracted you to apply to Salesforce ::
+I applied to Salesforce because it offers the kind of learning environment I am looking for as a software engineering intern: high technical standards, real product impact, and strong mentorship. I’m especially interested in working on systems that need to be reliable at scale, and Salesforce products are used by businesses worldwide every day. Being part of that environment would push me to grow beyond classroom-level coding and understand how solid engineering works in practice.
+
+Another reason is the breadth of engineering problems. Salesforce is not just building features; it is solving challenges across cloud services, distributed systems, performance, and developer productivity. That matches the direction I want for my career. I enjoy building with a strong foundation in data structures, algorithms, and clean code, and I want to see how those fundamentals are applied in large production systems with real users and real constraints.
+
+I’m also drawn to the company culture. The emphasis on trust, teamwork, and inclusion genuinely stands out. The 1-1-1 model shows that Salesforce cares about impact beyond business metrics, and that matters to me. I want to work in a place where technical growth and personal values can go together.
+
+Overall, Salesforce feels like the right place for me to learn fast, contribute meaningfully, and develop into a better engineer through challenging work and collaboration with experienced teams.
+
+####What attracted you to apply to this role ::What attracted me to this role is how hands-on and complete the experience is. It is not limited to one part of development you are expected to design, build, test, deploy, and improve software in a real production setting. That is exactly what I want from an internship. I want to learn how strong software is built end to end, including code quality, testing discipline, and operational reliability.
+
+The role also matches the way I like to work. I enjoy solving analytical problems and turning unclear requirements into practical solutions. In college projects, I’ve often had to break down ambiguous tasks, decide a reasonable approach, and then improve the solution based on feedback. I see the same mindset reflected in this job description: self-driven, clear communication, and the ability to work in a fast-moving environment.
+
+Technically, the requirements align well with my background and interests. I’m comfortable with Java, C++, and Python, and I like writing code that is simple, efficient, and maintainable. I’m also genuinely interested in testing, not only writing features, but making sure they are dependable. The focus on automated tests and testing infrastructure is one of the strongest reasons I applied.
+
+Most importantly, this role offers a chance to contribute while learning from experienced engineers. Working on cloud services, distributed systems, and internal tools would help me build practical engineering judgment, and I’m excited to bring consistency, curiosity, and ownership to that process.
