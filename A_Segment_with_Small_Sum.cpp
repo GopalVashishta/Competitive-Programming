@@ -76,23 +76,14 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int n ; ll s; cin>>n>>s;
+    int n ; ll s; cin >> n >> s;
     vector<int> arr(n);
-    for(auto &x: arr) cin>>x;
-    int l =0, r = 0;
-    ll sum = 0;
-    int ans = 0;
-    while(l<arr.size()){
+    for(auto &x: arr) cin >> x;
+    int ans = 0, l = 0; ll sum = 0;
+    for(int r=0; r<n; r++){
         sum+=arr[r];
-        if(sum > s) {
-            sum -= arr[l];
-            l++;
-        }
-        else{
-            ans = max(ans,r - l +1);
-        }
-        r++;
-        if(r>=arr.size()){ r = l; break;}
+        while(l<=r && sum>s) sum-=arr[l++];
+        ans = max(ans, r-l+1);
     }
     cout<<ans;
 

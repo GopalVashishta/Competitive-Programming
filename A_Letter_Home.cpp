@@ -7,10 +7,9 @@ int main(){
     while(tc--){
         int n ,s; cin>>n>>s;
         vector<int> v(n);
-        for(int i =0; i<n; i++)
-            cin>>v[i];
-        int d1 = 0,d2 = n-1;
-        int a = s - d1, b= d2-s;
-        cout<< 2*(min(a,b) + max(a,b))<<"\n"; 
+        int mn = INT_MAX, mx = INT_MIN;
+        for(int i =0; i<n; i++) { cin>>v[i]; mn = min(v[i], mn); mx = max(v[i], mx); }
+        
+        cout<< mx - mn + min(abs(s-mn), abs(s-mx)) <<"\n";  // R-L + min(abs(s-mn), abs(s-mx));
     }
 }
