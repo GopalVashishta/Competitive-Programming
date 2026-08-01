@@ -45,7 +45,7 @@ int main() {
                 }
             }
 
-        if(exec) dp[kk] = 0;
+        if(exec) dp[kk] = 0;//dp[kk] is already 0, check initialization
     }
     coutn(dp[k] ? "First" : "Second");
     return 0;

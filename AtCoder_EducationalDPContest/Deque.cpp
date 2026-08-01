@@ -14,7 +14,7 @@ template<typename... T> void coutn(T&&... args) { ((cout << args << "\n"), ...);
 using ld = long double;
 using ll = long long;
 
-ll play(int l, int r, int turn, vector<vector<ll>> &dp, vector<int> &arr){
+ll play(int l, int r, int turn, vector<vector<ll>> &dp, vector<int> &arr){ // no need for turn variable
     if(l==r) return arr[l];
     if(dp[l][r] != -1e18) return dp[l][r];
     
